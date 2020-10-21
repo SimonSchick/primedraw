@@ -1,0 +1,26 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+      "lib": ["dom", "ES2020"],
+      "target": "ES2020",
+      "module": "esnext",
+      "strict": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "noImplicitReturns": true,
+      "forceConsistentCasingInFileNames": true,
+      "noFallthroughCasesInSwitch": true,
+      "moduleResolution": "node",
+      "sourceMap": true,
+      "allowUnreachableCode": false,
+      "experimentalDecorators": false,
+      "noErrorTruncation": true,
+      "allowSyntheticDefaultImports": true,
+      "importHelpers": true,
+      "typeRoots": [],
+      "skipLibCheck": true
+    },
+    "include": [
+      "./"
+    ]
+  }
